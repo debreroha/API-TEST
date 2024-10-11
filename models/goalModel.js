@@ -1,4 +1,3 @@
-// const mongoose = require('mongoose')
 import mongoose from "mongoose"
 
 const goalSchema = mongoose.Schema(
@@ -34,4 +33,3 @@ const goalSchema = mongoose.Schema(
 const Goal = mongoose.model('Goal', goalSchema)
 
 export default Goal
-// module.exports = mongoose.model('Goal', goalSchema)
