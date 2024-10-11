@@ -29,6 +29,6 @@ This is a Node.js-based API for managing tasks, built with Express and MongoDB.
 
 5. Setup environment variable .env
    
-PORT=port
-MONGO_URI=your-mongodb-connection-string
-JWT_SECRET=your-jwt-secret
+   PORT=port
+   MONGO_URI=your-mongodb-connection-string
+   JWT_SECRET=your-jwt-secret
