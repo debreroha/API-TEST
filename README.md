@@ -20,3 +20,10 @@ This is a Node.js-based API for managing tasks, built with Express and MongoDB.
    ```bash
    git clone https://github.com/your-username/task-management-api.git
    cd task-management-api
+
+2. Install dependencies
+   npm install
+   
+4. run the server
+   npm start
+
